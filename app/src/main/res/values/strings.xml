@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="swipe_up_to_set_dice">Swipe up to set DICE</string>
+    <string name="roll">roll</string>
+</resources>
